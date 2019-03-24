@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: e76c3c1138e76c8468de988aceddd0ea
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - unityChan: {fileID: 1287857804440278, guid: b3f2ce26d0549894780e9d53c8a358c7,
+      type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
